@@ -28,6 +28,13 @@
 - [React Native Gesture Handler](https://github.com/kmagiera/react-native-gesture-handler)
 - [Eslint](http://eslint.org/) ([Airbnb config](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb))
 
+
+
+## Debugging(React native)
+- [Reactotron](https://github.com/infinitered/reactotron).
+- [React Native Debugger](https://github.com/jhen0409/react-native-debugger).
+
+
 ## Features(Back End)
 - [Repo URL](https://github.com/ymakhfi/testBackEnd.git).
 - [NestJs](https://nestjs.com/).
